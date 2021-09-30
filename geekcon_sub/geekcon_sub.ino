@@ -43,15 +43,5 @@ void loop() {
     direction_servo.write(180);
   }
   
-  //analogWrite(SERVO_PIN, 255);
-//  if (value > 500) {
-//    Servo1.write(90);
-//    digitalWrite(LED, HIGH);
-//  } else {
-//    Servo1.write(0);
-//    digitalWrite(LED, LOW);
-//  }
   delay(1);
-
-  
 }   
